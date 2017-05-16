@@ -15,7 +15,7 @@ public class JavaApplicationTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Test travis-ci");
+        System.out.prln("Test travis-ci");
     }
     
 }
